@@ -1,0 +1,16 @@
+
+.nav-bar {
+    margin: 0;
+    display: flex;
+    justify-content: flex-end;
+    padding: 15px 20px;
+
+    background-color: cyan;
+    border-bottom: 1px grey solid;
+}
+
+.nav-bar-text {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0;
+}
