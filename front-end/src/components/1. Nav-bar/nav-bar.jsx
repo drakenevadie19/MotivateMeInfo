@@ -1,10 +1,12 @@
 
+import "./nav-bar.css";
+
 const NavBar = () => {
 
     return (
         <>
-            <div>
-                <h1>Motivate Me</h1>
+            <div className="nav-bar">
+                <p className="nav-bar-text">MotivateMe</p>
             </div>
         </>
     )
